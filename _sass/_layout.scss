@@ -209,6 +209,15 @@
 
 .post-content {
     margin-bottom: $spacing-unit;
+    
+    .name {
+        color: $brand-color;
+    }
+    
+    .white {
+        color: $gray-color-light;
+        font-style: normal;
+    }
 
     h2 {
         font-size: 32px;
