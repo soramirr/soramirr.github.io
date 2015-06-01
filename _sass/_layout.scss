@@ -209,15 +209,6 @@
 
 .post-content {
     margin-bottom: $spacing-unit;
-    
-    .name {
-        color: $brand-color;
-    }
-    
-    .white {
-        color: $grey-color-light;
-        font-style: normal;
-    }
 
     h2 {
         font-size: 32px;
@@ -242,4 +233,20 @@
             font-size: 18px;
         }
     }
+}
+
+
+
+
+
+/**
+ * Custom Stuff
+ */
+.name {
+    color: $brand-color;
+}
+
+.white {
+    color: $grey-color-light;
+    font-style: normal;
 }
