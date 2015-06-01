@@ -209,12 +209,14 @@ pre {
  * Custom Stuff
  */
 .name {
+    font-family: "Open Sans Condensed", sans-serif;
     color: $brand-color;
     font-size: 8em;
-    letter-spacing: -2px;
+    letter-spacing: -6px;
 }
 
 .white {
     color: $grey-color-light;
     font-style: normal;
+    font-size: 4em;
 }
