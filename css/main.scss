@@ -20,6 +20,7 @@ $brand-color:      #b33333;
 $grey-color:       #f0f0f0;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
+$grey-color-extra-dark: darken($grey-color-dark, 25%);
 
 // Width of the content area
 $content-width:    800px;
