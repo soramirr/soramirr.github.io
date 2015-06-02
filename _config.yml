@@ -2,7 +2,7 @@
 title: Patrick Grady
 email: soramirr@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  
+  I am a learning programmer, who is currently proficient in HTML, CSS, Javascript, and PHP. Alongside this, I am currently learning to use the terminal to enhance my abilities as a programmer, and am learning how to use Jekyll specifically right now.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://soramirr.github.io" # the base hostname & protocol for your 
 github_username:  soramirr
