@@ -172,7 +172,16 @@
  */
 .page-content {
     padding: $spacing-unit 0;
+    background-image: url("../background.jpg");
+    background-size: cover;
+    filter: blur(3px);
+    -webkit-filter: blur(3px);
+    -moz-filter: blur(3px);
+    z-index: -100;
 }
+
+.wrapper {
+    z-index: 0;
 
 .page-heading {
     font-size: 28px;
