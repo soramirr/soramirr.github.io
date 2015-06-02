@@ -81,8 +81,12 @@
         }
 
         .page-link {
+            color: $background-color;
             display: block;
             padding: 5px 10px;
+        }
+        .page-link:visited {
+            color: $background-color;
         }
     }
 }

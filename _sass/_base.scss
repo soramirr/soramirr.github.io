@@ -230,3 +230,9 @@ pre {
     width: 100%;
     min-height: 400px;
 }
+
+@media screen and (max-width: $on-palm) {
+    .name {
+        font-size: 0.5em;
+    }
+}
