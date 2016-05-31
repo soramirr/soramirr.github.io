@@ -272,8 +272,8 @@ $(document).ready(function() {
   }
 
   //Uncomment in final product
-  // setTimeout(populateTimelines, 1500);
-  populateTimelines();
+   setTimeout(populateTimelines, 1500);
+  //populateTimelines();
 
 });
 
